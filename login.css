@@ -1,0 +1,38 @@
+a:link {
+    color : gray;
+    text-decoration: none;
+}
+a:visited {
+    color : gray;
+    text-decoration: none;
+}
+a:hover {
+    color : gray;
+    text-decoration: underline;
+}
+a:active {
+    color : gainsboro;
+    text-decoration: none;
+}
+select{
+    color:gray;
+    border:none;
+}
+.footerlanguage{
+    margin:0 auto;
+    display:flex;
+    color:gray;
+}
+main>article{
+    display:flex;
+}
+.loginorfacebook{
+    width:350px;
+    height:405.99px;
+    border:1px gray;
+}
+.signin{
+    width:350px;
+    height:62.6px;
+    border:1px gray;
+}
